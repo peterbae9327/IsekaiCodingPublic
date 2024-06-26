@@ -1,6 +1,6 @@
 # IsekaiCoding
 
-<img src="https://github.com/peterbae9327/IsekaiCoding/assets/167046920/b5033c45-7069-4a81-89ed-5aac336da7b8" width="1500" height="400"/>
+<img src="https://github.com/peterbae9327/IsekaiCodingPublic/이세코-removebg-preview" width="1500" height="400"/>
 
 
 ## 💻 프로젝트 소개
